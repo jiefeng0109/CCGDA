@@ -1,2 +1,1 @@
-# CCGDA
-Multi-complementary Generative Adversarial Networks With Contrastive Learning for Hyperspectral lmage classification
+Class-Aligned and Class-Balancing Generative Domain Adaptation for Hyperspectral Image Classification. IEEE Trans. Geosci. Remote. Sens. 62: 1-17 (2024)
