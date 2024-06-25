@@ -29,6 +29,8 @@ For further details, please check out our [paper](https://ieeexplore.ieee.org/do
 
 ## <a name="datasets"></a> 数据集描述
 
+数据集来自 [Houston, Pavia & HyRANK](https://github.com/YuxiangZhang-BIT/Data-CSHSI)
+
 ### <a name="datasets-houston"></a> Houston数据集
 
 | 类别    | 名称                        | Houston13      | Houston18      |
